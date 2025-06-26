@@ -1,1 +1,4 @@
 /data
+*.jpg
+
+.DS_Store
